@@ -1,2 +1,2 @@
 # Website_project
-Website
+Simple page
